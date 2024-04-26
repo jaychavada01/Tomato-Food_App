@@ -11,7 +11,7 @@
   display: flex;
   list-style: none;
   gap: 20px;
-  color: #49557e;
+  color: whitesmoke;
   font-size: 18px;
 }
 .navbar-right {
@@ -22,7 +22,8 @@
 .navbar button {
   background: transparent;
   font-size: 16px;
-  color: #49557e;
+  font-weight: 500;
+  color: whitesmoke;
   border: 1px solid tomato;
   padding: 10px 30px;
   border-radius: 50px;
@@ -30,11 +31,11 @@
   transition: 0.3s;
 }
 .navbar button:hover {
-  background-color: #fff4f2;
+  background-color: #dd4e35;
 }
 .navbar .active {
   padding-bottom: 2px;
-  border-bottom: 2px solid #49557e;
+  border-bottom: 2px solid #b15b37;
 }
 .navbar li {
   cursor: pointer;

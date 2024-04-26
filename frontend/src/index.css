@@ -9,7 +9,9 @@
 }
 body {
   min-height: 100vh;
-  background-color: whitesmoke;
+  /* background-color: whitesmoke; */
+  background-color: #1e1e1e;
+  color: whitesmoke;
 }
 a {
   text-decoration: none;
