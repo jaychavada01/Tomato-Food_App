@@ -1,14 +1,6 @@
-# MERN Stack Project: Food App
+# MERN Stack Project: Tomato - Food Delivery App
 
-`Visit the Website by following link:` [ChatApp](https://chatapp-web-version.onrender.com)
-
-## ![Login](image.png)
-
-## ![Signup](image-2.png)
-
-## ![Logged In](image-3.png)
-
-## ![Chat Section](image-4.png)
+`Visit the Website by following link:` [Tomato]()
 
 ### Some Features:
 
@@ -17,7 +9,15 @@
 - 🐞 Error handling both on the server and on the client
 
 ### Dependencies
-
+- bcrypt
+- body-parser
+- cors
+- dotenv
+- jsonwebtoken
+- multer
+- nodemon
+- stripe
+- validator
 
 ```js
 => To overcome from the CORS security issues... add this code in vite.config.js
