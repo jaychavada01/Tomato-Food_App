@@ -7,7 +7,7 @@ import axios from "axios"
 const Login = ({ setShowLogin }) => {
   const { url, setToken } = useContext(StoreContext);
 
-  const [currentState, setCurrentState] = useState("Sign Up");
+  const [currentState, setCurrentState] = useState("Login");
   const [showPassword, setShowPassword] = useState(false);
 
   const [data, setData] = useState({
