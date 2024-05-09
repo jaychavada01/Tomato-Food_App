@@ -43,15 +43,3 @@ MONGODB_URL=...
 JWT_SECRET=...
 STRIPE_SECRET_KEY=...
 ```
-
-### Build the app
-
-```shell
-npm run build
-```
-
-### Start the app
-
-```shell
-npm start
-```
