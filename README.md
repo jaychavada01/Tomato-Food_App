@@ -1,7 +1,5 @@
 # MERN Stack Project: Tomato - Food App
 
-`Visit the Website by following link:` [Tomato]()
-
 ### Some Features:
 
 - 🌟 Tech stack: MERN
