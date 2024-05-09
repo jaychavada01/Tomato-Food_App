@@ -1,4 +1,4 @@
-# MERN Stack Project: Tomato - Food Delivery App
+# MERN Stack Project: Tomato - Food App
 
 `Visit the Website by following link:` [Tomato]()
 
@@ -8,7 +8,7 @@
 - 🎃 Authentication && Authorization with JWT
 - 🐞 Error handling both on the server and on the client
 
-### Dependencies
+### Technology stack
 - bcrypt
 - body-parser
 - cors
@@ -18,6 +18,8 @@
 - nodemon
 - stripe
 - validator
+- axios
+- react-toastify
 
 ```js
 => To overcome from the CORS security issues... add this code in vite.config.js
@@ -41,7 +43,7 @@ server:{
 PORT=...
 MONGODB_URL=...
 JWT_SECRET=...
-NODE_ENV=...
+STRIPE_SECRET_KEY=...
 ```
 
 ### Build the app
